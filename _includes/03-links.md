@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+You can check out my other talks and streams at [bijjamprakash.com/talkswithdrg](https://bijjamprakash.com/talkswithdrg) and say hello on Twitter [@bijjamprakash](https://twitter.com/bijjamprakash)
